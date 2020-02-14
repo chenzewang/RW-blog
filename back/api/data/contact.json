@@ -1,0 +1,137 @@
+{
+  "timeLine": [{
+    "title": "JULY 2017",
+    "date": "2",
+    "text": "2",
+    "class": "period",
+    "isSlide": false
+  }, {
+    "title": "学习",
+    "date": "JULY 1, 2017",
+    "text": "学习基础的JS,CSS,HTML元素和jquery,前端框架Vue.js,后端node.js,数据库,服务器.",
+    "class": "",
+    "isSlide": false
+  }, {
+    "title": "进行网站搭建",
+    "date": "OCT 7, 2017",
+    "text": "进行了数据库结构的设计,和后台nodejs框架的搭建,前端模型设计,排除了N多初稿和设计,直到选定这个设计配色,包括后台管理界面的设计和代码编写",
+    "class": "",
+    "isSlide": false
+  }, {
+    "title": "增加文章功能",
+    "date": "OCT 22, 2017",
+    "text": "增加了博客文章的功能,包括文章的留言功能,文章的点赞功能,和文章的标签分类和文章热度,时间的排名功能.",
+    "class": "1",
+    "isSlide": false
+  }, {
+    "title": "增加视频功能",
+    "date": "NOV 15, 2017",
+    "text": "增加了视频分享的版面，包括留言功能和分类,由于经费限制,采用了youku等网站嵌入代码的形式.",
+    "class": "1",
+    "isSlide": false
+  }, {
+    "title": "选定阿里云OSS存储和服务器",
+    "date": "NOV 27, 2017",
+    "text": "阿里云ECS作为网站服务器,OSS云盘作为我的图片存储,当初写了很多上传的代码,考虑到安全性,最终实现从了Nodejs端获取临时TOKEN授权,通过阿里云权限接口系统,进行web端签名直传的功能.",
+    "class": "2",
+    "isSlide": false
+  }, {
+    "title": "网站上线",
+    "date": "DEC 5, 2017",
+    "text": "经过近两周的管局公安备案,成功部署项目到域名,网站v1.0第一个版本上线.",
+    "class": "2",
+    "isSlide": false
+  }, {
+    "title": "增加人数统计",
+    "date": "DEC 30, 2017",
+    "text": "通过截取IP，获得访问量，同时修正了一些适配手机端的做法，优化了样式",
+    "class": "1",
+    "isSlide": false
+  }],
+  "commentList": [{
+    "id": 70,
+    "message": "<img width=\"20px\" height=\"20px\" alt=\"smile\" src=\"assets/image/emotions/emoji/smile.png\"> <img width=\"20px\" height=\"20px\" alt=\"smile\" src=\"assets/image/emotions/emoji/smile.png\">  <img width=\"20px\" height=\"20px\" alt=\"smile\" src=\"assets/image/emotions/emoji/smile.png\"> 谢谢，因为想搭建博客的时候顺便学一下框架",
+    "nickname": "陈日王",
+    "date": "2018-06-28 9:35",
+    "userPhoto": "assets/image/headimag2.jpg",
+    "response": "小哥用的是Vue哦，厉害。:smile: ",
+    "responseName": "雾仙",
+    "responseTime": "2018-06-25 20:36",
+    "area": "浙江杭州"
+  }, {
+    "id": 69,
+    "message": "小哥用的是Vue哦，厉害。 <img width=\"20px\" height=\"20px\" alt=\"smile\" src=\"assets/image/emotions/emoji/smile.png\">",
+    "nickname": "雾仙",
+    "date": "2018-06-25 20:36",
+    "userPhoto": "assets/image/headimag2.jpg",
+    "response": null,
+    "responseName": null,
+    "responseTime": null,
+    "area": "广东广州"
+  }, {
+    "id": 68,
+    "message": "路过",
+    "nickname": "FUNKYEYES",
+    "date": "2018-06-25 13:18",
+    "userPhoto": "assets/image/headimag2.jpg",
+    "response": null,
+    "responseName": null,
+    "responseTime": null,
+    "area": "浙江宁波"
+  }, {
+    "id": 67,
+    "message": "。。。你究竟对我的网站做了什么？ <img width=\"20px\" height=\"20px\" alt=\"scream\" src=\"assets/image/emotions/emoji/scream.png\">",
+    "nickname": "陈日王",
+    "date": "2018-06-09 17:17",
+    "userPhoto": "assets/image/headimag2.jpg",
+    "response": "闪讯直连测试",
+    "responseName": "宁大通信狗",
+    "responseTime": "2018-06-08 15:55",
+    "area": "浙江宁波"
+  }, {
+    "id": 66,
+    "message": "闪讯直连测试",
+    "nickname": "宁大通信狗",
+    "date": "2018-06-08 15:55",
+    "userPhoto": "assets/image/headimag2.jpg",
+    "response": null,
+    "responseName": null,
+    "responseTime": null,
+    "area": "浙江宁波"
+  }],
+  "introduceList": [{
+    "title": "关于学习。",
+    "section": [{
+      "content": "从小开始就迷上了电脑。一早接触到的WIN98系统，到现在的Mac OS和Linux系统，可以说电脑一直伴随着我的成长。高考考砸了后，没放弃兴趣，依旧开始了信息技术的学习。"
+    }, {
+      "content": "2017年6月毕业后，也许是喜欢设计从无到有的过程，机缘巧合加入了前端攻城狮这个行列（其实还只是一个入门coder）"
+    }, {
+      "content": "毕业后3个月内，凭着自己的喜好和超强的学（fu）习（zhi）能（zhan）力（tie），接触了从JS到Vue.js，AngularJS的框架，再到后面的复杂的Webpack，还有略懂的后台NodeJS，数据库，被折磨死的Linux命令行，服务器等。"
+    }, {
+      "content": "每天就是花天酒地...呸！昏天黑地的学习，所以个人博客就这么诞生了..."
+    }]
+  }, {
+    "title": "关于生活。",
+    "section": [{
+      "content": "从当初的WIN98上的暴力摩托和网游石器时代开始，到现在的GTA5、巫师3等，就注定是一个游戏迷。接触大大小小游戏，有烧钱的梦幻西游，也有竞技的LOL，还有迷人的时空幻境、Inside等。最近的梦想就是一个PS4和一个4K显示器咔咔咔！"
+    }, {
+      "content": "喜欢跳舞，大学的所有课余时间基本献给了街舞，曾一度因跳舞差点错过毕业工作。毕业后还是选择作为一个爱好，现在放弃了半年多跳舞，只为了能有更棒的物质基础来支撑我的梦想和爱好。"
+    }, {
+      "content": "喜欢电影，虽然我是个95后，但是很喜欢上世纪90年代的电影和电视，从霸王别姬、辛德勒的名单、情书开始，一直喜欢高质量的电影电视，虽然不如一些专业的电影人，但作为一个爱好，电影给了我正直的三观和健康的成长空间。"
+    }, {
+      "content": "喜欢运动，喜欢了一段时间的长跑，一段时间的游泳，还有一直喜爱的篮球。现在整天在电脑面前敲代码，做技术，也不忘多骑着自己6年的爱车出去逛逛，去一个陌生的球场投投篮。健康的身体是最好的财富。"
+    }]
+  }, {
+    "title": "关于本站。",
+    "section": [{
+      "content": "本站从9月底选择前后端框架，到网站外形风格样式设计，从一个个模型淘汰再淘汰最后选定，再到网站组件化设计，都由本人独自完成。11月中旬完成整个网站系统。"
+    }, {
+      "content": "本站是基于<a href=\"https://cn.vuejs.org/\">Vue.js</a>（非单文件开发）前端框架+借鉴BootStrap原型UI,后台框架用的<a href=\"https://nodejs.org/en/\">Node.js</a>的express框架，数据库用的Mysql，云服务器用的<a href=\"https://www.aliyun.com/\">阿里云</a>的ECS，图片存储用的阿里云的OSS云盘。"
+    }]
+  }, {
+    "title": "友情链接。",
+    "section": [{
+      "content": "<a href=\"https://aoaoao.me/\">树洞</a>&nbsp;&nbsp;<a href=\"https://www.ailoli.org/\">Ailoli</a>"
+    }]
+  }]
+}
