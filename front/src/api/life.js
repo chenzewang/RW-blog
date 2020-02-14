@@ -7,7 +7,7 @@ function getAllLife() {
     })
   })
 }
-
+//123123
 
 function getLifePage(params) {
   return new Promise((resolve, reject) => {
